@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 0755 betty
+su 0755 betty
